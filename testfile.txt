@@ -1,3 +1,2 @@
 new random information
-more content in master
-
+conflict content
